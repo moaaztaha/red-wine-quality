@@ -11,7 +11,7 @@
 - [x] Save model for further use
 
 # What to do next
-- [ ] Re-read and understand every bit of the code
-- [ ] Try other regression model families (e.g. regularized regression, boosted trees, etc)
-- [ ] Collect more data if possible 
-- [ ] Engineer smarter features after spending more time on exploratory analysis
+- [x] Re-read and understand every bit of the code
+- [x] Try other regression model families (e.g. regularized regression, boosted trees, etc)
+- [x] Collect more data if possible 
+- [x] Engineer smarter features after spending more time on exploratory analysis
